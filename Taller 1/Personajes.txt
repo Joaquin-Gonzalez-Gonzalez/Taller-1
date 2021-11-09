@@ -1,0 +1,3 @@
+Singed,TOP,1,Singed Surfista,N
+Leona,SUP,2,Leona Veraniega,N,Proyecto Leona,E
+Blitzcrank,1,iBlitzcrank,E
